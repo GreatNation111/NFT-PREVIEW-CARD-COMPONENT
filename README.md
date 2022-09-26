@@ -2,7 +2,7 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-<a href="https://GreatNation111.github.io/NFT-PREVIEW-CARD-COMPONENT/">Here's the link to the live page</a>
+<a href="https://greatnation111.github.io/NFT-PREVIEW-CARD-COMPONENT/">Here's the link to the live page</a>
 
 <!-- ## Table of contents
 
